@@ -13,5 +13,5 @@ Python backend developer based in Hyderabad, India.
 
 ## 📫 Connect With Me
 - 📧 Email: pasulakarthik03@email.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 🌐 Portfolio: https://pasulakarthik.github.io/portfolio
+- 💼 LinkedIn: https://www.linkedin.com/in/karthik-pasula-16607036a
+- 🌐 Portfolio: https://pasulakarthik.github.io/portfolio/portfolio.html

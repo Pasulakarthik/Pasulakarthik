@@ -10,7 +10,6 @@ Python backend developer based in Hyderabad, India.
 
 ## 🚀 What I'm Working On
 - Building backend APIs with FastAPI and Docker
-- Improving my DSA and system design skills
 
 ## 📫 Connect With Me
 - 📧 Email: pasulakarthik03@email.com

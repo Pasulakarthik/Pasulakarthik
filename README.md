@@ -6,7 +6,7 @@ Python backend developer based in Hyderabad, India.
 - **Languages:** Python, Bash, HTML
 - **Backend:** FastAPI, REST APIs
 - **Tools:** Docker, Git, Linux
-- **Databases:** PostgreSQL / MySQL
+- **Databases:** PostgreSQL 
 
 ## 🚀 What I'm Working On
 - Building backend APIs with FastAPI and Docker
